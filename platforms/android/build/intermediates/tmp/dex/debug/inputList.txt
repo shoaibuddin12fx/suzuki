@@ -1,0 +1,2 @@
+C:\suzuki\platforms\android\build\intermediates\classes\debug
+C:\suzuki\platforms\android\build\intermediates\pre-dexed\debug\classes-a0c1d65e2d6c72d2ea05600f0ce57db22ffe9651.jar
